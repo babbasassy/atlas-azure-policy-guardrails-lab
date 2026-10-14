@@ -1,0 +1,5 @@
+evidence-private/
+*.raw.json
+*.raw.txt
+.env
+.env.*
