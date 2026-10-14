@@ -10,7 +10,7 @@ Pricing and offer references checked on 12 October 2026:
 
 - [Azure Policy pricing](https://azure.microsoft.com/en-us/pricing/details/azure-policy/): no charge for Azure Policy on Azure resources.
 - [Virtual Network pricing](https://azure.microsoft.com/en-us/pricing/details/virtual-network/): distinguishes the network from charged appliances and peering traffic.
-- [Azure offer terms](https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0017g/): credit eligibility and exclusions.
+- [Azure offer terms](https://azure.microsoft.com/en-us/pricing/offers/ms-azr-0044p/): credit eligibility and exclusions.
 
 Do not add VMs, disks, public IPs, NAT, gateways, paid DDoS protection, log storage or traffic analytics to reproduce the tag-policy test. Such additions change its cost assumptions.
 
