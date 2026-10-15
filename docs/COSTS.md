@@ -17,3 +17,4 @@ Do not add VMs, disks, public IPs, NAT, gateways, paid DDoS protection, log stor
 NSG cost confirmation: [Microsoft employee explanation](https://learn.microsoft.com/en-us/answers/questions/1314374/azure-design-azure-firewall-nsg) distinguishes the free NSG from separately charged flow logging.
 
 After cleanup on 13 October, the subscription overview still showed USD 200 remaining, 16 days to credit expiration and Current cost 0.00. This remains a provisional portal reading.
+

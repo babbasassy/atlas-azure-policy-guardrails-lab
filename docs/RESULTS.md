@@ -25,5 +25,5 @@ The positive deployment page reported completion and a start time of 12 October 
 
 ## Evidence handling
 
-Five screenshots were captured on 12 October. Account headers were cropped out and the PNGs optimized. Image 01 is included in this release; the four test screenshots remain local pending publication review. Uncropped originals and full portal text records are retained privately. The observed result text and visible lab resource names were preserved.
+Five screenshots were captured on 12 October. Account headers were cropped out and the PNGs optimized. All five are published in the evidence directory. Uncropped originals and full portal text records are retained privately. The observed result text and visible lab resource names were preserved.
 
